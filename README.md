@@ -1,6 +1,7 @@
 # common
-popwin:弹框组件
-$(".popWin").popWin({
+popwin:弹框组件  
+$(".popWin").popWin(  
+
 	position:1,       //1是居中，2是右下角
 	width:"1000px",  //宽度
 	height:"auto",	 //自适应高度或者定高
